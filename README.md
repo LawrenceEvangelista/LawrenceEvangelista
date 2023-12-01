@@ -27,5 +27,5 @@ I am a passionate coder with a strong background in database management. I love 
   - CSS 🎨
     
 ## Connect with Me
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/lawrence-evangelista-1a188a235/
 - Email: lawrencemevangelista@gmail.com
