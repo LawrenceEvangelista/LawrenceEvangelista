@@ -15,15 +15,15 @@ I am a passionate coder with a strong background in database management. I love 
 
 ## Skill Sets
 - **Programming:** 
-  - Java ⚡
-  - Javascript 🌐
+  - Java <img src="java_logo_link" alt="Java" height="30">
+  - Javascript <img src="javascript_logo_link" alt="JavaScript" height="30">
 - **Databases:** 
-  - IBM DB2 Cloud 🛢️
+  - IBM DB2 Cloud <img src="db2_logo_link" alt="IBM DB2 Cloud" height="30">
 - **Tools:** 
-  - Lucidchart 🌈
-  - Jaspersoft Studio 📊
-  - Eclipse 🌙
-  - HTML 🕸️
+  - Lucidchart <img src="lucidchart_logo_link" alt="Lucidchart" height="30">
+  - Jaspersoft Studio <img src="jaspersoft_logo_link" alt="Jaspersoft Studio" height="30">
+  - Eclipse <img src="eclipse_logo_link" alt="Eclipse" height="30">
+  - HTML <img src="html_logo_link" alt="HTML" height="30">
     
 ## Connect with Me
 - LinkedIn: 
