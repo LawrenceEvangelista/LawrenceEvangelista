@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Lawrence M. Evangelista! 👋
 
-<!--
-**LawrenceEvangelista/LawrenceEvangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate coder with a strong background in database management. I love diving into complex problems and creating elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.
 
-Here are some ideas to get you started:
+## Education
+- **BS Information Technology**
+  New Era University
+  2021 - Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](certification_link_1)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](certification_link_2)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](certification_link_3)
+- [SQL and Relational Databases 101](certification_link_4)
+
+## Skill Sets
+- **Programming:** Java, Javascript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Connect with Me
+- LinkedIn: 
+- Email: lawrencemevangelista@gmail.com
