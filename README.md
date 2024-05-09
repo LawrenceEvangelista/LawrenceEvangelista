@@ -12,6 +12,7 @@ I am a passionate coder with a strong background in database management. I love 
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=72CB8F8920D161B9DCA0A8D9C878DD6B3BCDC0E1E4C39C897E7959D63B2B6038)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8C4806BE27BDC7B2901EBBA7BA5B1A8E7D30E60D5EF713F7F573B4655E8ECC88)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/fbdc0eefa16c4c24bcf4cf255c1e371e)
+- [NoSQL and DBaaS 101]([https://courses.cognitiveclass.ai/certificates/fbdc0eefa16c4c24bcf4cf255c1e371e](https://courses.cognitiveclass.ai/certificates/27e1f5dd6168431c8d9a23c1d440a0d3))
 
 ## Skill Sets
 - **Programming:** 
