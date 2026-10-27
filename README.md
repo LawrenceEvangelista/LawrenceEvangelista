@@ -10,11 +10,11 @@ I enjoy exploring different technologies, developing practical applications, and
   2022 - 2026
   
 ## Areas of Interest
-Software Development
-Database Management
-Web Development
-IT Support and Troubleshooting
-Networking
+- Software Development
+- Database Management
+- Web Development
+- IT Support and Troubleshooting
+- Networking
 
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=100C694A1F3AC4A492A1CB2A8BDB2BD6A6B0F6EB722405E05BC4B9188FF09E0F)
