@@ -9,7 +9,7 @@ I enjoy exploring different technologies, developing practical applications, and
   New Era University
   2022 - 2026
   
-**Areas of Interest**
+## Areas of Interest
 Software Development
 Database Management
 Web Development
