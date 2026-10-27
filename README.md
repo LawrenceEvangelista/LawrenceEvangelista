@@ -1,11 +1,20 @@
-# Hi there, I'm Lawrence M. Evangelista! 👋
+# Hello!, I'm Lawrence M. Evangelista
 
-I am a passionate coder with a strong background in database management. I love diving into complex problems and creating elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.
+I'm a Bachelor of Science in Information Technology graduate from New Era University with a strong interest in software development, database management, and problem-solving.
+
+I enjoy exploring different technologies, developing practical applications, and continuously improving my technical skills. I'm eager to apply what I've learned, gain hands-on experience, and grow as an IT professional.
 
 ## Education
 - **BS Information Technology**
   New Era University
-  2021 - Present
+  2022 - 2026
+  
+**Areas of Interest**
+Software Development
+Database Management
+Web Development
+IT Support and Troubleshooting
+Networking
 
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=100C694A1F3AC4A492A1CB2A8BDB2BD6A6B0F6EB722405E05BC4B9188FF09E0F)
@@ -19,7 +28,9 @@ I am a passionate coder with a strong background in database management. I love 
   - Java ⚡
   - Javascript 🌐
 - **Databases:** 
-  - IBM DB2 Cloud 🛢️
+  - IBM DB2 Cloud
+  - Sqlite
+  - MySql
 - **Tools:** 
   - Lucidchart 🌈
   - Jaspersoft Studio 📊
