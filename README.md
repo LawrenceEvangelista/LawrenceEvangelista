@@ -25,18 +25,18 @@ I enjoy exploring different technologies, developing practical applications, and
 
 ## Skill Sets
 - **Programming:** 
-  - Java ⚡
-  - Javascript 🌐
+  - Java
+  - Javascript
 - **Databases:** 
   - IBM DB2 Cloud
   - Sqlite
   - MySql
 - **Tools:** 
-  - Lucidchart 🌈
-  - Jaspersoft Studio 📊
-  - Eclipse 🌙
-  - HTML 🕸️
-  - CSS 🎨
+  - Lucidchart
+  - Jaspersoft Studio
+  - Eclipse
+  - HTML
+  - CSS
     
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/lawrence-evangelista-1a188a235/
